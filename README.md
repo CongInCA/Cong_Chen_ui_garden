@@ -13,6 +13,4 @@ This is a UI component library/toolkit built with React and Storybook.
 
 1. Clone the repository:
 
-```bash git clone https://github.com/your-username/your-repo.git
-
-```
+git clone https://github.com/CongInCA/Cong_Chen_ui_garden.git
